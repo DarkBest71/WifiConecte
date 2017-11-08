@@ -7,6 +7,7 @@ Auteur: DarkBest Avatar Rousseau
 Novembre 2017
 
 BONJOUR
+
 #=====================
 
 Le Plugin WifiConecte et une version Bêta donc tester le sans modération.
@@ -18,6 +19,7 @@ WifiConecte.
 
 
 #INSTALLATION
+
 #=====================
 
 Il vous faudras entrée les adresse mac de chaque équipement wifi sur le fichier WifiConecte.js du plugin ligne 5.
@@ -27,6 +29,7 @@ Il vous faudras entrés les nom de chaque équipement wifi sur le fichier WifiCo
 
 
 #=================================
+
 #Modifier le fichier ping_rang.bat
 
 Ligne 18, Entré les trois premiers chiffre de votre adresse IP généralement et le plus courant c'est 192.168.0. ou 192.168.1.
@@ -36,6 +39,7 @@ Ligne 17, Entre le nombre de IP de votre serveur DHCP 32 ou 64 ou 128 ou 254 gé
 
 
 #====================================
+
 #Modifier le fichier WifiConecte.prop
 
 A la ligne 6 j'ai mis zéro mais vous pouvez mettre aussi a 10,15,20,25,30,35,40,45,50
@@ -47,6 +51,7 @@ Le code et largement commenté en français avec ou sans faute d'orthographe, po
 
 
 #Intéraction avec Sarah fichier WifiConecte.xml
+
 #=============================================
 
 Dite a Sarah:
