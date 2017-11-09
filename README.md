@@ -17,6 +17,17 @@ j'ai corrigé pas mal de bugs et il été temps que je le sorte.
 
 WifiConecte.
 
+
+Pour les novice:
+====================
+Télécharger le logiciel Wifi Guard elle vous permettra de savoir qui et connecter a votre wifi , et cela vous permettra de savoir l'adresse Mac de vaux téléphone
+
+le lien ici: https://www.softperfect.com/download/files/wifiguard_windows_setup.exe
+ou ici:
+ https://www.softperfect.com/products/wifiguard/
+ 
+ 
+
 INSTALLATION
 
 =====================
